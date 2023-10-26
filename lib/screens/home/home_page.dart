@@ -128,7 +128,7 @@ class _HomePageState extends State<HomePage> {
                 Image.network(_weather!.condition.icon),
               ],
             )
-                : Text('Tap the button to get weather information.'),
+
           ],
         ),
       ),

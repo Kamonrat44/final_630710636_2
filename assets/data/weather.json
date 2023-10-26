@@ -13,7 +13,7 @@
     "uv": 6,
     "condition": {
       "text": "Partly cloudy",
-      "icon": "https://cdn.weatherapi.com/weather/128x128/day/116.png",
+      "icon": "",
       "code": 1003
     }
   },

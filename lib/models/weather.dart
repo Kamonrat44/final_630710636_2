@@ -32,7 +32,7 @@ class Weather {
 class Condition {
   final String text;
   final String icon;
-  final int code;
+  final double code;
 
   Condition({
     required this.text,
