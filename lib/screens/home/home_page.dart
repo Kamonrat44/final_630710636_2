@@ -128,9 +128,8 @@ class _HomePageState extends State<HomePage> {
                 Image.network(_weather!.condition.icon),
               ],
             )
-
-          ],
-        ),
+          ),
+        ]
       ),
     );
   }

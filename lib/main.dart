@@ -15,7 +15,7 @@ class _WeatherAppState extends State<WeatherApp> {
       theme: ThemeData(
         appBarTheme: AppBarTheme(
           backgroundColor: Color.fromARGB(
-              255, 210, 231, 248), // ตั้งค่าพื้นหลังของ AppBar เป็นสีขาว
+              255, 210, 231, 250), // ตั้งค่าพื้นหลังของ AppBar เป็นสีขาว
         ),
       ),
       home: Scaffold(
