@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lastUpdated": "2023-10-26 09:00",
+    "tempC": 29,
+    "tempF": 84.2,
+    "feelsLikeC": 34.7,
+    "feelsLikeF": 94.4,
+    "windKph": 13,
+    "windMph": 8.1,
+    "humidity": 84,
+    "uv": 6,
+    "condition": {
+      "text": "Partly cloudy",
+      "icon": "https://cdn.weatherapi.com/weather/128x128/day/116.png",
+      "code": 1003
+    }
+  },
+  {
+    "city": "Nakhon Pathom",
+    "country": "Thailand",
+    "lastUpdated": "2023-10-26 10:00",
+    "tempC": 28.5,
+    "tempF": 82.6,
+    "feelsLikeC": 33.3,
+    "feelsLikeF": 92.6,
+    "windKph": 7.2,
+    "windMph": 4.7,
+    "humidity": 76,
+    "uv": 6,
+    "condition": {
+      "text": "Partly cloudy",
+      "icon": "https://cdn.weatherapi.com/weather/128x128/day/116.png",
+      "code": 1063
+    }
+  },
+   ]
